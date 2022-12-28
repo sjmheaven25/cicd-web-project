@@ -5,7 +5,7 @@
     <h2>It's working on Tomcat server(9.0.70)</h2>
     <hr>
     <h1>${msg}</h1>
-    <h1>Hi, there (updated by sjmheaven25)</h1>
+    <h1>Hi, there. this is (updated by sjmheaven25)</h1>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
     <h3>Version: 3.0</h3>
 </body>
